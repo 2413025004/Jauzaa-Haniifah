@@ -76,7 +76,7 @@
     <header>
         <h1>JAUZAA HANIIFAH</h1>
         <h1>2413025004</h1>
-        <img id="profile-pic" src="C:\Users\ASUS\Documents\portofolio" alt="FOTO">
+        <img id="profile-pic" src="file:///C:/Users/ASUS/Documents/portofolio/jauzaa.jpeg" alt="FOTO">
         <p>PENDIDIKAN TEKNOLOGI INFORMASI</p>
         <p>UNIVERSITAS LAMPUNG</p>
         <nav>
