@@ -109,7 +109,7 @@
             <li>
                 <h3>Proyek 1</h3>
                 <p>Deskripsi singkat tentang proyek ini.</p>
-                <a href="[JAUZAA HANIIFAH-2413025004-TOKOH GAFIKOM](https://github.com/2413025004/Jauzaa-Haniifah/blob/main/JAUZAA%20HANIIFAH-2413025004-TOKOH%20GAFIKOM.pdf)</a>
+                <a href="https://github.com/usernameproyek1>Lihat di Github</a>
             </li>
             <li>
                 <h3>Proyek 2</h3>
