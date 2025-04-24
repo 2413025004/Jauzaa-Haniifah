@@ -107,15 +107,32 @@
         <h2>Proyek Saya</h2>
         <ul>
             <li>
-                <h3>Proyek 1</h3>
-                <p>Deskripsi singkat tentang proyek ini.</p>
-                <a href="https://github.com/username/proyek1">Lihat di GitHub</a>
+                <h3>Tugas 1</h3>
+                <p>Tokoh Grafika Komputer.</p>
+                <a href="https://drive.google.com/file/d/1xUJ5btI89289Fnv2wH_N4EEUbyBUkUrm/view?usp=sharing">PPT</a>
+                <a href="https://drive.google.com/file/d/1WIXVqttwRud-84u6qE25bTHpPo4f6b1K/view?usp=sharing">Makalah</a>
+                <a href="https://drive.google.com/file/d/1QnU1JaUtGDaeaCksWibMHGxpwa9JPtUQ/view?usp=sharing">Video</a>
             </li>
             <li>
-                <h3>Proyek 2</h3>
-                <p>Deskripsi singkat tentang proyek ini.</p>
-                <a href="https://github.com/username/proyek2">Lihat di GitHub</a>
+                <h3>Tugas 2</h3>
+                <p>Pembentukan Garis Menggunakan Algoritma DDA.</p>
+                <a href="https://drive.google.com/file/d/1L9qMdk9Z0dX5Pr6GQ5MwswDD4LSlL09e/view?usp=sharing">Makalah</a>
+                <a href="https://drive.google.com/file/d/1wdGXq4ZUakcCGU1siSPaFs4wlMSQUT1Y/view?usp=sharing">Video</a>
             </li>
+            <li>
+                <h3>Tugas 3</h3>
+                <p>Pembentukan Lingkaran Menggunakan Algoritma Bresenham dan Midpoint</p>
+                <a href="https://drive.google.com/file/d/1ux8oafe7s3-nTud5X_sULRLTSKl7kNMH/view?usp=sharing">Makalah</a>
+                <a href="https://drive.google.com/file/d/1Yr_PNqgoOJH0gW5xBm8X84nCZQ3L2CeD/view?usp=sharing">Video</a>
+            </li>
+            <li>
+                <h3>Tugas 4</h3>
+                <p>Pembentukan Kurva Menggunakan Algoritma Bezier</p>
+                <a href="https://drive.google.com/file/d/1GxD6Mmo5ZLSajn_HsW5UxVLbUVLSKNsF/view?usp=sharing">Makalah</a>
+                <a href="https://drive.google.com/file/d/1o8fMMbYpt0PrY3sitAFI3IYs-xgFmsIp/view?usp=drive_link">Video</a>
+            </li>
+
+            </ul>
             <!-- Tambahkan lebih banyak proyek sesuai kebutuhan -->
         </ul>
     </section>
