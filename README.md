@@ -109,7 +109,7 @@
             <li>
                 <h3>Proyek 1</h3>
                 <p>Deskripsi singkat tentang proyek ini.</p>
-                <a href="https://github.com/usernameproyek1>Lihat di Github</a>
+                <a href="https://github.com/username/proyek1">Lihat di GitHub</a>
             </li>
             <li>
                 <h3>Proyek 2</h3>
