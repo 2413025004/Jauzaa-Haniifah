@@ -131,7 +131,6 @@
                 <a href="https://drive.google.com/file/d/1GxD6Mmo5ZLSajn_HsW5UxVLbUVLSKNsF/view?usp=sharing">Makalah</a>
                 <a href="https://drive.google.com/file/d/1o8fMMbYpt0PrY3sitAFI3IYs-xgFmsIp/view?usp=drive_link">Video</a>
             </li>
-            
     </section>
 
     <section id="contact">
