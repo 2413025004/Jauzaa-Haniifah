@@ -132,27 +132,27 @@
                 <a href="https://drive.google.com/file/d/1o8fMMbYpt0PrY3sitAFI3IYs-xgFmsIp/view?usp=drive_link">Video</a>
             </li>
             <li>
-                <h3>Kuis 1<h3>
+                <h3>Kuis 1</h3>
                     <p>Persamaan Misteri</p>
                     <a href="https://drive.google.com/file/d/179HGT3NM7dzrto2E7ClMeel5oZmeSjFa/view?usp=sharing">Makalah</a>
                     <a href="https://drive.google.com/file/d/15ASP6EH9iaUIjS0eNVnUd5DACbn5k0lS/view?usp=sharing">Code</a>
              </li>
             <li>
-                <h3>Kuis 2<h3>
+                <h3>Kuis 2</h3>
                     <p>Transformasi 2D</p>
                     <a href="https://drive.google.com/file/d/1bMBFflw2pF0jR6EGezRlq7RwcIzt1rHn/view?usp=sharing">Makalah</a>
                     <a href="https://docs.google.com/spreadsheets/d/1IRUEibiZg3-CPF6AeRYLaVWrRIfkon4n3CzKb4vH-Go/edit?usp=sharing">Spreadsheet</a>
                     <a href="https://drive.google.com/file/d/1R_6WElsJ44KvIlAiED5ToTCllc3H0ocL/view?usp=sharing">Video</a>
              </li>
             <li>
-                <h3>Kuis 3<h3>
+                <h3>Kuis 3</h3>
                     <p>Cohen Clip</p>
                     <a href="https://drive.google.com/file/d/1njf6O5qo34a5lhkjoTjxFJ-5gpwmhvsE/view?usp=sharing">Makalah</a>
                     <a href="https://docs.google.com/spreadsheets/d/1i3ZC3kgfsot1dHQnI6SJFZxZliIT1wnfXUNw4YYGrNQ/edit?usp=sharing">Spreadsheet</a>
                     <a href="https://drive.google.com/file/d/1DTJptwOdKbEsV0kZ5JneKYmfKPohvWxy/view?usp=sharing">Video</a>
              </li>
             <li>
-                <h3>Kuis 4<h3>
+                <h3>Kuis 4</h3>
                     <p>Clipping Polygon</p>
                     <a href="https://drive.google.com/file/d/1kPT6Zybmq7Fe_YKkdvWZqLxnFP_2LQd1/view?usp=sharing">Makalah</a>
                     <a href="https://drive.google.com/file/d/1BG6WK4OpMzLhq-33oBnwMiXXasLBLQ6h/view?usp=sharing">Video</a>
