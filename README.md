@@ -156,6 +156,7 @@
                     <p>Clipping Polygon</p>
                     <a href="https://drive.google.com/file/d/1kPT6Zybmq7Fe_YKkdvWZqLxnFP_2LQd1/view?usp=sharing">Makalah</a>
                     <a href="https://drive.google.com/file/d/1BG6WK4OpMzLhq-33oBnwMiXXasLBLQ6h/view?usp=sharing">Video</a>
+                </li>
 
         </ul>
     </section>
