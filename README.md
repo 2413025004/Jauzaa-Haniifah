@@ -136,6 +136,7 @@
             <p>Persamaan Misteri.</p>
             <a href="https://drive.google.com/file/d/179HGT3NM7dzrto2E7ClMeel5oZmeSjFa/view?usp=sharing">Makalah</a> |
             <a href="https://drive.google.com/file/d/15ASP6EH9iaUIjS0eNVnUd5DACbn5k0lS/view?usp=sharing">Code</a>
+            <a href="https://drive.google.com/file/d/1TX9kBKpJO4pRQEMV_mORt9xTyzpxdC7n/view?usp=sharing">Output</a>
         </li>
         <li>
             <h3>Kuis 2</h3>
