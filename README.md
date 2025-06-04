@@ -142,7 +142,8 @@
             <h3>Kuis 2</h3>
             <p>Transformasi 2D.</p>
             <a href="https://drive.google.com/file/d/1bMBFflw2pF0jR6EGezRlq7RwcIzt1rHn/view?usp=sharing">Makalah</a> |
-            <a href="https://docs.google.com/spreadsheets/d/1IRUEibiZg3-CPF6AeRYLaVWrRIfkon4n3CzKb4vH-Go/edit?usp=sharing">Spreadsheet</a> |
+            <a href="https://docs.google.com/spreadsheets/d/1IRUEibiZg3-CPF6AeRYLaVWrRIfkon4n3CzKb4vH-Go/edit?usp=sharing">Spreadsheet Matriks</a> |
+            <a href="https://docs.google.com/spreadsheets/d/1KxQY1Y6pnDzFkwTZH5sDAH4KrOSlVbmljR28C0-tuW8/edit?usp=drive_link">Spreadsheet Proyeksi</a> |
             <a href="https://drive.google.com/file/d/1k3NXUoKBRhWvbHuER8VJaPZHBgGQGKmo/view?usp=drive_link">Video</a>
         </li>
         <li>
