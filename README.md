@@ -142,7 +142,7 @@
             <p>Transformasi 2D.</p>
             <a href="https://drive.google.com/file/d/1bMBFflw2pF0jR6EGezRlq7RwcIzt1rHn/view?usp=sharing">Makalah</a> |
             <a href="https://docs.google.com/spreadsheets/d/1IRUEibiZg3-CPF6AeRYLaVWrRIfkon4n3CzKb4vH-Go/edit?usp=sharing">Spreadsheet</a> |
-            <a href="https://drive.google.com/file/d/1R_6WElsJ44KvIlAiED5ToTCllc3H0ocL/view?usp=sharing">Video</a>
+            <a href="https://drive.google.com/file/d/1k3NXUoKBRhWvbHuER8VJaPZHBgGQGKmo/view?usp=drive_link">Video</a>
         </li>
         <li>
             <h3>Kuis 3</h3>
